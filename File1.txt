@@ -3,3 +3,4 @@
 1.2.bug1修复完毕
 1.3.master中的第一个release（release-3-master），第一次修改
 1.4.release-3-master完成最后的修改，立即发布
+1.5.fixbug-2进行修复
